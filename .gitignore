@@ -6,6 +6,7 @@
 .pnp.js
 
 /studio/node_modules
+/smart-contract/node_modules
 
 # testing
 /coverage
